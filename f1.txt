@@ -1,13 +1,10 @@
+파일을 대거 수정하고 올림
 
+PPP
 s1
 s2
 
-ofice q2
-office 1
-수정
-s1i
-
-s2i
+KK s2i
 
 s3
 
