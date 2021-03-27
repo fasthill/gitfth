@@ -6,3 +6,5 @@ s2i
 
 s3
 
+중간에 수정함 detached HEAD
+
