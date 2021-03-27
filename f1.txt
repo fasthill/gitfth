@@ -8,6 +8,11 @@ KK s2i
 
 s3
 
+
 s4:wq
 
 test
+
+중간에 수정함 detached HEAD
+
+
