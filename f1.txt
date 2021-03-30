@@ -1,7 +1,22 @@
-s1i
+test branch from detached
 
-s2i
+파일을 대거 수정하고 올림
+다시 해 봄
+PPP
+s1
+s2
+
+KK s2i
 
 s3
 
 55 pull request
+
+s4:wq
+
+test
+
+중간에 수정함 detached HEAD
+
+
+
