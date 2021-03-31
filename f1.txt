@@ -1,22 +1,8 @@
-test branch from detached
 
 파일을 대거 수정하고 올림
-다시 해 봄
-PPP
-s1
-s2
+br1 에서 작업
 
-KK s2i
+test branch from detached
 
-s3
-
-55 pull request
-
-s4:wq
-
-test
-
-중간에 수정함 detached HEAD
-
-
+add one more line
 
