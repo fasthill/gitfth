@@ -7,3 +7,4 @@ test branch from detached
 
 add one more line
 add two
+add three
