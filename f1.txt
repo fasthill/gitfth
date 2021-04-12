@@ -2,9 +2,10 @@ modified in local
 파일을 대거 수정하고 올림
 br1 에서 작업
 수정됨
-
+sibling에서 fork함
 test branch from detached
 
 add one more line
 add two
 add three
+commit에서 oiption으로 pr 선택
