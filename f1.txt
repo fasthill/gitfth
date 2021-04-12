@@ -8,3 +8,4 @@ test branch from detached
 add one more line
 add two
 add three
+commit에서 oiption으로 pr 선택
